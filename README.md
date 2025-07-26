@@ -9,6 +9,7 @@ This is a **paid freelancing project** developed for a client requiring a readin
 
 **Client:** Cannot Disclose   
 **Freelancer:** Prasad Dhole 
+
 **Project Type:** Paid Contract Work  
 **Completion Date:** [July 2025]  
 
@@ -22,7 +23,7 @@ This is a **paid freelancing project** developed for a client requiring a readin
 This repository contains **client work** completed as a paid freelance engagement. All code and assets are provided for reference purposes only.
 
 ### Usage Restrictions
-- ❌ Not authorized for commercial reuse
+- ❌ Not authorised for commercial reuse
 - ❌ Not open for public contributions
 - ✅ Code may be referenced for educational purposes
 - ✅ Portfolio display permitted (contact for details)
