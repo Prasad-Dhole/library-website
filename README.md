@@ -27,6 +27,7 @@ This repository contains **client work** completed as a paid freelance engagemen
 - ✅ Code may be referenced for educational purposes
 - ✅ Portfolio display permitted (contact for details)
 
+
 ## Project Structure
 src/
 
@@ -44,12 +45,15 @@ src/
 ## Confidential Data Handling
 
 Sensitive information is gitignored and stored in:
-        src/utils/mockData.ts (contact details)
 
+        src/utils/mockData.ts (contact details)
+        
         src/utils/successData.ts (student information)
+
 
 
 ## License & Ownership
 
 © [2025] [Prasad Dhole]. All rights reserved.
+
 This work remains intellectual property of the freelancer until full payment is received per contractual agreement. Unauthorised distribution prohibited.
