@@ -22,25 +22,38 @@ This is a **paid freelancing project** developed for a client requiring a readin
 This repository contains **client work** completed as a paid freelance engagement. All code and assets are provided for reference purposes only.
 
 ### Usage Restrictions
-- ❌ Not authorized for commercial reuse
+- ❌ Not authorised for commercial reuse
 - ❌ Not open for public contributions
 - ✅ Code may be referenced for educational purposes
 - ✅ Portfolio display permitted (contact for details)
 
+
 ## Project Structure
 src/
+
 ├── components/ # Reusable UI components
+
 ├── pages/ # Route-based pages
+
 ├── utils/ # Utilities and mock data
+
 ├── App.tsx # Main application
+
 └── index.tsx # Entry point
 
-#Confidential Data Handling
-Sensitive information is gitignored and stored in:
-        src/utils/mockData.ts (contact details)
 
+## Confidential Data Handling
+
+Sensitive information is gitignored and stored in:
+
+        src/utils/mockData.ts (contact details)
+        
         src/utils/successData.ts (student information)
 
-License & Ownership
+
+
+## License & Ownership
+
 © [2025] [Prasad Dhole]. All rights reserved.
-This work remains intellectual property of the freelancer until full payment is received per contractual agreement. Unauthorized distribution prohibited.
+
+This work remains intellectual property of the freelancer until full payment is received per contractual agreement. Unauthorised distribution prohibited.
