@@ -3,7 +3,6 @@ import { contactData } from '../utils/mockdata';
 
 const Contact: React.FC = () => {
   
-  
   const handleWhatsAppClick = () => {
     window.open(`https://wa.me/${contactData.coordinator.phone}?text=I'm interested in admission to the reading room`);
   };
