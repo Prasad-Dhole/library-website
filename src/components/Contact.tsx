@@ -2,7 +2,7 @@ import React from 'react';
 import { contactData } from '../utils/mockdata';
 
 const Contact: React.FC = () => {
-  const coordinatorNumber = '+919764543076'; // Replace with actual number
+  
   
   const handleWhatsAppClick = () => {
     window.open(`https://wa.me/${contactData.coordinator.phone}?text=I'm interested in admission to the reading room`);
